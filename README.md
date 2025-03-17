@@ -2,6 +2,11 @@
 
 This project is a microtask submission for Outreachy (Task T388234), showcasing a frontend web application built with React, TypeScript, and Vite. It features a full-width banner with content describing something I enjoy—**"I Enjoy Exploring New Technologies"**—and a dynamic form to customize the banner in real-time without page reloads.
 
+#Live Demo
+🔗 [MediaWiki Banner Generator](https://mediawiki-banner.netlify.app/)
+
+
+
 ## Overview
 
 This task demonstrates my frontend development skills by setting up a modern web application infrastructure with unit testing support. The project includes a customizable banner and a control form, enhanced with additional features like animations, themes, and export functionality. The goal was to create a functional UI while ensuring a clean codebase, proper documentation, and a reproducible setup.
